@@ -101,3 +101,28 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found {
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.not-found div {
+  margin: 40px 0;
+}
+
+.not-found h2{
+  color: #f1356d;
+}
+
+.not-found button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
